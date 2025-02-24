@@ -1,0 +1,7 @@
+streamlit
+speechrecognition
+deep-translator
+gTTS
+playsound
+hashlib
+pathlib
